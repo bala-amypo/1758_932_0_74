@@ -5,6 +5,7 @@ import jakarta.presistence.Entity;
 @Entity
 public class StudentEntity{
 
+       @Id
        
        private Listong id;
        private String name;
