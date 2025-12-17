@@ -14,4 +14,5 @@ public class StudentEntity{
        private String name;
        private String email;
        private float cgpa;
+       
 }
